@@ -23,10 +23,13 @@
   nav {
     display: none;
     position: absolute;
-    left: 150px;
+    left: 0px;
     top: 50px;
+    background-color: #0A192F;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
-  ul {
+  .list {
     padding: 20px;
     display: flex;
     flex-direction: column;
