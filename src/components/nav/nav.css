@@ -1,0 +1,37 @@
+.list {
+  list-style: none;
+}
+
+.nav-list {
+  display: inline-block;
+}
+
+.nav-link {
+  display: block;
+  padding: 10px 15px;
+}
+
+.nav-link:hover {
+  cursor: pointer;
+  color: #64FFDA;
+}
+.resp {
+  display: none;
+}
+
+@media(max-width: 480px) {
+  nav {
+    display: none;
+    position: absolute;
+    left: 150px;
+    top: 50px;
+  }
+  ul {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin: 0 auto;
+  }
+}
