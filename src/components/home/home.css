@@ -16,6 +16,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+
 }
 
 .my-image {
@@ -43,12 +44,19 @@
 
 .init {
   color: #64FFDA;
+  letter-spacing: 2px;
 }
 
 .bold {
   font-weight: 900;
-  font-size: 30px;
+  font-size: 3rem;
+  letter-spacing: 2px;
 }
+
+.more {
+  margin-top: 10px;
+  letter-spacing: 2px;
+ }
 
 @media (max-width: 480px) {
   .home-container {
@@ -60,10 +68,10 @@
   .social {
     width: 80%;
     margin: 0 auto;
-    order: 1;
+    order: 3;
   }
   .aboutme {
-    order: 3;
+    order: 2;
     align-items: center;
     justify-content: center;
     width: 80%;
@@ -74,12 +82,13 @@
     width: 80%;
     margin: 0 auto;
     justify-content: center;
-    order: 2;
+    order: 1;
   }
   .img {
     width: 400px;
   }
-  .more {
-   margin-bottom: 10px;
+  .social {
+    margin-bottom: 20px;
   }
+  
 }
