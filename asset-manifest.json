@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/leorodrigues/static/css/main.ee96c91c.chunk.css",
+    "main.js": "/leorodrigues/static/js/main.6275eb6d.chunk.js",
+    "main.js.map": "/leorodrigues/static/js/main.6275eb6d.chunk.js.map",
+    "runtime-main.js": "/leorodrigues/static/js/runtime-main.9657a1ac.js",
+    "runtime-main.js.map": "/leorodrigues/static/js/runtime-main.9657a1ac.js.map",
+    "static/js/2.c72b02a7.chunk.js": "/leorodrigues/static/js/2.c72b02a7.chunk.js",
+    "static/js/2.c72b02a7.chunk.js.map": "/leorodrigues/static/js/2.c72b02a7.chunk.js.map",
+    "index.html": "/leorodrigues/index.html",
+    "static/css/main.ee96c91c.chunk.css.map": "/leorodrigues/static/css/main.ee96c91c.chunk.css.map",
+    "static/js/2.c72b02a7.chunk.js.LICENSE.txt": "/leorodrigues/static/js/2.c72b02a7.chunk.js.LICENSE.txt",
+    "static/media/leo.35118530.png": "/leorodrigues/static/media/leo.35118530.png",
+    "static/media/logo.65e04887.png": "/leorodrigues/static/media/logo.65e04887.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9657a1ac.js",
+    "static/js/2.c72b02a7.chunk.js",
+    "static/css/main.ee96c91c.chunk.css",
+    "static/js/main.6275eb6d.chunk.js"
+  ]
+}
